@@ -206,7 +206,7 @@ public:
 
         vFixedSeeds.clear();
         vSeeds.clear();
-        /*vSeeds.push_back(CDNSSeedData("mycointest.io", "testnet-seed.mycointest.io"));
+        /*vSeeds.push_back(CDNSSeedData("deocoin.io", "testnet-seed.deocoin.io"));
         vSeeds.push_back(CDNSSeedData("owncoin.qa", "testnet-seed.owncoin.qa"));
         *///legacy seeders
         vSeeds.clear();

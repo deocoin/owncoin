@@ -32,7 +32,7 @@
   <string>Owncoin-Qt</string>
 
   <key>CFBundleIdentifier</key>
-  <string>io.mycointest.Owncoin-Qt</string>
+  <string>io.deocoin.Owncoin-Qt</string>
 
   <key>CFBundleURLTypes</key>
   <array>
@@ -65,7 +65,7 @@
         <string>application/x-owncoin-payment-request</string>
         <key>public.filename-extension</key>
         <array>
-          <string>mycointestmentrequest</string>
+          <string>deocoinmentrequest</string>
         </array>
       </dict>
     </dict>

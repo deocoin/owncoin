@@ -137,7 +137,7 @@ I usually confirm that remote is on the correct block by issuing:
 
 ```owncoind getinfo```
 
-And compare with the official explorer at http://explorer.mycointest.io/chain/Owncoin
+And compare with the official explorer at http://explorer.deocoin.io/chain/Owncoin
 
 ### Local
 

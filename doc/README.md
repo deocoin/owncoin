@@ -34,7 +34,7 @@ Drag Owncoin-Qt to your applications folder, and then run Owncoin-Qt.
 
 * See the documentation at the [Owncoin Wiki](https://en.bitcoin.it/wiki/Main_Page) ***TODO***
 for help and more information.
-* Ask for help on [#mycointest](http://webchat.freenode.net?channels=mycointest) on Freenode. If you don't have an IRC client use [webchat here](http://webchat.freenode.net?channels=mycointest).
+* Ask for help on [#deocoin](http://webchat.freenode.net?channels=deocoin) on Freenode. If you don't have an IRC client use [webchat here](http://webchat.freenode.net?channels=deocoin).
 * Ask for help on the [OwncoinTalk](https://owncointalk.org/) forums.
 
 Building
@@ -46,7 +46,7 @@ The following are developer notes on how to build Owncoin on your native platfor
 
 Development
 ---------------------
-The Owncoin repo's [root README](https://github.com/mycointest/owncoin/blob/master/README.md) contains relevant information on the development process and automated testing.
+The Owncoin repo's [root README](https://github.com/deocoin/owncoin/blob/master/README.md) contains relevant information on the development process and automated testing.
 
 - [Coding Guidelines](coding.md)
 - [Multiwallet Qt Development](multiwallet-qt.md)
@@ -58,7 +58,7 @@ The Owncoin repo's [root README](https://github.com/mycointest/owncoin/blob/mast
 
 ### Resources
 * Discuss on the [OwncoinTalk](https://owncointalk.org/) forums, in the Development & Technical Discussion board.
-* Discuss on [#mycointest](http://webchat.freenode.net/?channels=mycointest) on Freenode. If you don't have an IRC client use [webchat here](http://webchat.freenode.net/?channels=mycointest).
+* Discuss on [#deocoin](http://webchat.freenode.net/?channels=deocoin) on Freenode. If you don't have an IRC client use [webchat here](http://webchat.freenode.net/?channels=deocoin).
 
 ### Miscellaneous
 - [Assets Attribution](assets-attribution.md)

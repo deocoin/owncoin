@@ -4,11 +4,11 @@
 
 Owncoin Core version 0.12.0 is now available from:
 
-  https://mycointest.io/downloads
+  https://deocoin.io/downloads
 
 Please report bugs using the issue tracker at github:
 
-  https://github.com/mycointest/owncoin/issues
+  https://github.com/deocoin/owncoin/issues
 
 
 How to Upgrade

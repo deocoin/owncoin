@@ -22,9 +22,9 @@ Build-Depends: debhelper,
  libqrencode-dev,
  libprotobuf-dev, protobuf-compiler
 Standards-Version: 3.9.2
-Homepage: http://www.mycointest.io/
-Vcs-Git: git://github.com/mycointest/owncoin.git
-Vcs-Browser: http://github.com/mycointest/owncoin
+Homepage: http://www.deocoin.io/
+Vcs-Git: git://github.com/deocoin/owncoin.git
+Vcs-Browser: http://github.com/deocoin/owncoin
 
 Package: owncoind
 Architecture: any

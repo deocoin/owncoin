@@ -46,7 +46,7 @@ static const int MAX_URI_LENGTH = 255;
 #define SPINNER_FRAMES 35
 
 #define QAPP_ORG_NAME "Owncoin"
-#define QAPP_ORG_DOMAIN "mycointest.io"
+#define QAPP_ORG_DOMAIN "deocoin.io"
 #define QAPP_APP_NAME_DEFAULT "Owncoin-Qt"
 #define QAPP_APP_NAME_TESTNET "Owncoin-Qt-testnet"
 

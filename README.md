@@ -1,7 +1,7 @@
 Owncoin Core staging tree 0.12
 ===============================
 
-https://www.mycointest.io
+https://www.deocoin.io
 
 Copyright (c) 2009-2015 Bitcoin Core Developers
 
@@ -18,7 +18,7 @@ are carried out collectively by the network. Owncoin Core is the name of open
 source software which enables the use of this currency.
 
 For more information, as well as an immediately useable, binary version of
-the Owncoin Core software, see https://www.mycointest.io/downloads.
+the Owncoin Core software, see https://www.deocoin.io/downloads.
 
 
 License
@@ -46,7 +46,7 @@ match the project's coding conventions (see [doc/coding.md](doc/coding.md)) or a
 controversial.
 
 The `master` branch is regularly built and tested, but is not guaranteed to be
-completely stable. [Tags](https://github.com/mycointest/owncoin/tags) are created
+completely stable. [Tags](https://github.com/deocoin/owncoin/tags) are created
 regularly to indicate new official, stable release versions of Owncoin. ***TODO***
 
 Testing
@@ -65,14 +65,14 @@ submit new unit tests for old code. Unit tests can be compiled and run (assuming
 Every pull request is built for both Windows and Linux on a dedicated server,
 and unit and sanity tests are automatically run. The binaries produced may be
 used for manual QA testing — a link to them will appear in a comment on the
-pull request posted by [OwncoinPullTester](https://github.com/mycointest/PullTester). See https://github.com/TheBlueMatt/test-scripts
+pull request posted by [OwncoinPullTester](https://github.com/deocoin/PullTester). See https://github.com/TheBlueMatt/test-scripts
 for the build/test scripts. ***TODO***
 
 ### Manual Quality Assurance (QA) Testing
 
 Large changes should have a test plan, and should be tested by somebody other
 than the developer who wrote the code.
-See https://github.com/mycointest/QA/ for how to create a test plan. ***TODO***
+See https://github.com/deocoin/QA/ for how to create a test plan. ***TODO***
 
 Translations
 ------------

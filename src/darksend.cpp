@@ -37,8 +37,8 @@ CActiveMasternode activeMasternode;
 
 /* *** BEGIN DARKSEND MAGIC - OWNCOIN **********
     Copyright (c) 2014-2015, Owncoin Developers
-        eduffield - evan@mycointest.io
-        udjinm6   - udjinm6@mycointest.io
+        eduffield - evan@deocoin.io
+        udjinm6   - udjinm6@deocoin.io
 */
 
 void CDarksendPool::ProcessMessageDarksend(CNode* pfrom, std::string& strCommand, CDataStream& vRecv)

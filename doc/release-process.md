@@ -2,7 +2,7 @@ Release Process
 ====================
 
 * update translations (ping wumpus, Diapolo or tcatm on IRC)
-* see https://github.com/mycointest/owncoin/blob/master/doc/translation_process.md#syncing-with-transifex
+* see https://github.com/deocoin/owncoin/blob/master/doc/translation_process.md#syncing-with-transifex
 
 * * *
 
@@ -134,9 +134,9 @@ rm SHA256SUMS
 - Upload zips and installers, as well as `SHA256SUMS.asc` from last step, to the bitcoin.org server
   into `/var/www/bin/bitcoin-core-${VERSION}`
 
-- Update mycointest.io version ***TODO***
+- Update deocoin.io version ***TODO***
 
-  - First, check to see if the mycointest.io maintainers have prepared a
+  - First, check to see if the deocoin.io maintainers have prepared a
     release: https://github.com/bitcoin/bitcoin.org/labels/Releases
 
       - If they have, it will have previously failed their Travis CI
@@ -155,11 +155,11 @@ rm SHA256SUMS
 
   - Owncoin-development mailing list
 
-  - Update title of #mycointest on Freenode IRC
+  - Update title of #deocoin on Freenode IRC
 
   - Optionally reddit /r/Mycointest, ... but this will usually sort out itself
 
-- Notify Flare (?) ***TODO*** so that he can start building [https://launchpad.net/~mycointest/+archive/ubuntu/owncoin](the PPAs) ***TODO***
+- Notify Flare (?) ***TODO*** so that he can start building [https://launchpad.net/~deocoin/+archive/ubuntu/owncoin](the PPAs) ***TODO***
 
 - Add release notes for the new version to the directory `doc/release-notes` in git master
 

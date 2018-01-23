@@ -1,6 +1,6 @@
 package:=native_libuuid
 $(package)_version=1.41.14
-$(package)_download_path=http://downloads.sourceforge.net/e2fsprogs
+$(package)_download_path=https://sourceforge.net/projects/e2fsprogs/files/e2fsprogs/1.41.14/
 $(package)_file_name=e2fsprogs-libs-$($(package)_version).tar.gz
 $(package)_sha256_hash=dbc7a138a3218d9b80a0626b5b692d76934d6746d8cbb762751be33785d8d9f5
 
