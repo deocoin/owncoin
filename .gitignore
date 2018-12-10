@@ -6,12 +6,12 @@ reset-files.bash
 *.tar.gz
 
 *.exe
-src/owncoin
-src/owncoind
-src/owncoin-cli
-src/owncoin-tx
-src/test/test_owncoin
-src/qt/test/test_owncoin-qt
+src/deocoin
+src/deocoind
+src/deocoin-cli
+src/deocoin-tx
+src/test/test_deocoin
+src/qt/test/test_deocoin-qt
 
 # autoreconf
 Makefile.in
@@ -34,8 +34,8 @@ config.log
 config.status
 configure
 libtool
-src/config/owncoin-config.h
-src/config/owncoin-config.h.in
+src/config/deocoin-config.h
+src/config/deocoin-config.h.in
 src/config/stamp-h1
 share/setup.nsi
 share/qt/Info.plist
@@ -60,7 +60,7 @@ src/qt/test/moc*.cpp
 *.o
 *.o-*
 *.patch
-.owncoin
+.deocoin
 *.a
 *.pb.cc
 *.pb.h
@@ -79,12 +79,12 @@ src/qt/test/moc*.cpp
 # Compilation and Qt preprocessor part
 *.qm
 Makefile
-owncoin-qt
-Owncoin-Qt.app
+deocoin-qt
+Deocoin-Qt.app
 
 # Unit-tests
 Makefile.test
-owncoin-qt_test
+deocoin-qt_test
 src/test/buildenv.py
 
 # Resources cpp
@@ -100,7 +100,7 @@ build
 #lcov
 *.gcno
 /*.info
-test_owncoin.coverage/
+test_deocoin.coverage/
 total.coverage/
 coverage_percent.txt
 

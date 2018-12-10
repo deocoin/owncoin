@@ -1,15 +1,15 @@
 [Unit]
-Description=Owncoin's distributed currency daemon
+Description=Deocoin's distributed currency daemon
 After=network.target
 
 [Service]
-User=owncoin
-Group=owncoin
+User=deocoin
+Group=deocoin
 
 Type=forking
-PIDFile=/var/lib/owncoind/owncoind.pid
-ExecStart=/usr/bin/owncoind -daemon -pid=/var/lib/owncoind/owncoind.pid \
--conf=/etc/owncoin/owncoin.conf -datadir=/var/lib/owncoind -disablewallet
+PIDFile=/var/lib/deocoind/deocoind.pid
+ExecStart=/usr/bin/deocoind -daemon -pid=/var/lib/deocoind/deocoind.pid \
+-conf=/etc/deocoin/deocoin.conf -datadir=/var/lib/deocoind -disablewallet
 
 Restart=always
 PrivateTmp=true

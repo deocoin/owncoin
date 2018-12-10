@@ -1,6 +1,6 @@
 [Protocol]
-exec=owncoin-qt '%u'
-protocol=owncoin
+exec=deocoin-qt '%u'
+protocol=deocoin
 input=none
 output=none
 helper=true

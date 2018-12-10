@@ -9,8 +9,8 @@
 #include <vector>
 
 /**
- * CBaseChainParams defines the base parameters (shared between owncoin-cli and owncoind)
- * of a given instance of the Owncoin system.
+ * CBaseChainParams defines the base parameters (shared between deocoin-cli and deocoind)
+ * of a given instance of the Deocoin system.
  */
 class CBaseChainParams
 {

@@ -13,7 +13,7 @@
 - (NSString *)__bundleIdentifier
 {
     if (self == [NSBundle mainBundle]) {
-        return @"io.deocoin.Owncoin-Qt";
+        return @"io.deocoin.Deocoin-Qt";
     } else {
         return [self __bundleIdentifier];
     }

@@ -2,24 +2,24 @@
 
 # backward compatibility for existing gentoo layout 
 #
-if [ -d "/var/lib/owncoin/.owncoin" ]; then
-	BITCOIND_DEFAULT_DATADIR="/var/lib/owncoin/.owncoin"
+if [ -d "/var/lib/deocoin/.deocoin" ]; then
+	BITCOIND_DEFAULT_DATADIR="/var/lib/deocoin/.deocoin"
 else
-	BITCOIND_DEFAULT_DATADIR="/var/lib/owncoind"
+	BITCOIND_DEFAULT_DATADIR="/var/lib/deocoind"
 fi
 
-BITCOIND_CONFIGFILE=${BITCOIND_CONFIGFILE:-/etc/owncoin/owncoin.conf}
-BITCOIND_PIDDIR=${BITCOIND_PIDDIR:-/var/run/owncoind}
-BITCOIND_PIDFILE=${BITCOIND_PIDFILE:-${BITCOIND_PIDDIR}/owncoind.pid}
+BITCOIND_CONFIGFILE=${BITCOIND_CONFIGFILE:-/etc/deocoin/deocoin.conf}
+BITCOIND_PIDDIR=${BITCOIND_PIDDIR:-/var/run/deocoind}
+BITCOIND_PIDFILE=${BITCOIND_PIDFILE:-${BITCOIND_PIDDIR}/deocoind.pid}
 BITCOIND_DATADIR=${BITCOIND_DATADIR:-${BITCOIND_DEFAULT_DATADIR}}
-BITCOIND_USER=${BITCOIND_USER:-owncoin}
-BITCOIND_GROUP=${BITCOIND_GROUP:-owncoin}
-BITCOIND_BIN=${BITCOIND_BIN:-/usr/bin/owncoind}
+BITCOIND_USER=${BITCOIND_USER:-deocoin}
+BITCOIND_GROUP=${BITCOIND_GROUP:-deocoin}
+BITCOIND_BIN=${BITCOIND_BIN:-/usr/bin/deocoind}
 
-name="Owncoin Core Daemon"
-description="Owncoin crypto-currency p2p network daemon"
+name="Deocoin Core Daemon"
+description="Deocoin crypto-currency p2p network daemon"
 
-command="/usr/bin/owncoind"
+command="/usr/bin/deocoind"
 command_args="-pid=\"${BITCOIND_PIDFILE}\" \
 		-conf=\"${BITCOIND_CONFIGFILE}\" \
 		-datadir=\"${BITCOIND_DATADIR}\" \
@@ -65,7 +65,7 @@ checkconfig()
 {
 	if ! grep -qs '^rpcpassword=' "${BITCOIND_CONFIGFILE}" ; then
 		eerror ""
-		eerror "ERROR: You must set a secure rpcpassword to run owncoind."
+		eerror "ERROR: You must set a secure rpcpassword to run deocoind."
 		eerror "The setting must appear in ${BITCOIND_CONFIGFILE}"
 		eerror ""
 		eerror "This password is security critical to securing wallets "
@@ -78,7 +78,7 @@ checkconfig()
 		eerror "It is also recommended that you also set alertnotify so you are "
 		eerror "notified of problems:"
 		eerror ""
-		eerror "ie: alertnotify=echo %%s | mail -s \"Owncoin Alert\"" \
+		eerror "ie: alertnotify=echo %%s | mail -s \"Deocoin Alert\"" \
 			"admin@foo.com"
 		eerror ""
 		return 1

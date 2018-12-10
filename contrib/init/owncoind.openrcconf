@@ -1,25 +1,25 @@
-# /etc/conf.d/owncoind: config file for /etc/init.d/owncoind
+# /etc/conf.d/deocoind: config file for /etc/init.d/deocoind
 
 # Config file location
-#BITCOIND_CONFIGFILE="/etc/owncoin/owncoin.conf"
+#BITCOIND_CONFIGFILE="/etc/deocoin/deocoin.conf"
 
 # What directory to write pidfile to?  (created and owned by $BITCOIND_USER)
-#BITCOIND_PIDDIR="/var/run/owncoind"
+#BITCOIND_PIDDIR="/var/run/deocoind"
 
 # What filename to give the pidfile
-#BITCOIND_PIDFILE="${BITCOIND_PIDDIR}/owncoind.pid"
+#BITCOIND_PIDFILE="${BITCOIND_PIDDIR}/deocoind.pid"
 
-# Where to write owncoind data (be mindful that the blockchain is large)
-#BITCOIND_DATADIR="/var/lib/owncoind"
+# Where to write deocoind data (be mindful that the blockchain is large)
+#BITCOIND_DATADIR="/var/lib/deocoind"
 
-# User and group to own owncoind process
-#BITCOIND_USER="owncoin"
-#BITCOIND_GROUP="owncoin"
+# User and group to own deocoind process
+#BITCOIND_USER="deocoin"
+#BITCOIND_GROUP="deocoin"
 
-# Path to owncoind executable
-#BITCOIND_BIN="/usr/bin/owncoind"
+# Path to deocoind executable
+#BITCOIND_BIN="/usr/bin/deocoind"
 
-# Nice value to run owncoind under
+# Nice value to run deocoind under
 #BITCOIND_NICE=0
 
 # Additional options (avoid -conf and -datadir, use flags above)

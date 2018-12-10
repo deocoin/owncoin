@@ -1,4 +1,4 @@
-Owncoin Core 0.12.0
+Deocoin Core 0.12.0
 =====================
 
 Setup
@@ -7,46 +7,46 @@ Setup
 
 Running
 ---------------------
-The following are some helpful notes on how to run Owncoin on your native platform.
+The following are some helpful notes on how to run Deocoin on your native platform.
 
 ### Unix
 
-You need the Qt4 run-time libraries to run Owncoin-Qt. On Debian or Ubuntu:
+You need the Qt4 run-time libraries to run Deocoin-Qt. On Debian or Ubuntu:
 
 	sudo apt-get install libqtgui4
 
 Unpack the files into a directory and run:
 
-- bin/32/owncoin-qt (GUI, 32-bit) or bin/32/owncoind (headless, 32-bit)
-- bin/64/owncoin-qt (GUI, 64-bit) or bin/64/owncoind (headless, 64-bit)
+- bin/32/deocoin-qt (GUI, 32-bit) or bin/32/deocoind (headless, 32-bit)
+- bin/64/deocoin-qt (GUI, 64-bit) or bin/64/deocoind (headless, 64-bit)
 
 
 
 ### Windows
 
-Unpack the files into a directory, and then run owncoin-qt.exe.
+Unpack the files into a directory, and then run deocoin-qt.exe.
 
 ### OSX
 
-Drag Owncoin-Qt to your applications folder, and then run Owncoin-Qt.
+Drag Deocoin-Qt to your applications folder, and then run Deocoin-Qt.
 
 ### Need Help?
 
-* See the documentation at the [Owncoin Wiki](https://en.bitcoin.it/wiki/Main_Page) ***TODO***
+* See the documentation at the [Deocoin Wiki](https://en.bitcoin.it/wiki/Main_Page) ***TODO***
 for help and more information.
 * Ask for help on [#deocoin](http://webchat.freenode.net?channels=deocoin) on Freenode. If you don't have an IRC client use [webchat here](http://webchat.freenode.net?channels=deocoin).
-* Ask for help on the [OwncoinTalk](https://owncointalk.org/) forums.
+* Ask for help on the [DeocoinTalk](https://deocointalk.org/) forums.
 
 Building
 ---------------------
-The following are developer notes on how to build Owncoin on your native platform. They are not complete guides, but include notes on the necessary libraries, compile flags, etc.
+The following are developer notes on how to build Deocoin on your native platform. They are not complete guides, but include notes on the necessary libraries, compile flags, etc.
 
 - [OSX Build Notes](build-osx.md)
 - [Unix Build Notes](build-unix.md)
 
 Development
 ---------------------
-The Owncoin repo's [root README](https://github.com/deocoin/owncoin/blob/master/README.md) contains relevant information on the development process and automated testing.
+The Deocoin repo's [root README](https://github.com/deocoin/deocoin/blob/master/README.md) contains relevant information on the development process and automated testing.
 
 - [Coding Guidelines](coding.md)
 - [Multiwallet Qt Development](multiwallet-qt.md)
@@ -57,7 +57,7 @@ The Owncoin repo's [root README](https://github.com/deocoin/owncoin/blob/master/
 - [Unit Tests](unit-tests.md)
 
 ### Resources
-* Discuss on the [OwncoinTalk](https://owncointalk.org/) forums, in the Development & Technical Discussion board.
+* Discuss on the [DeocoinTalk](https://deocointalk.org/) forums, in the Development & Technical Discussion board.
 * Discuss on [#deocoin](http://webchat.freenode.net/?channels=deocoin) on Freenode. If you don't have an IRC client use [webchat here](http://webchat.freenode.net/?channels=deocoin).
 
 ### Miscellaneous

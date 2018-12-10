@@ -78,7 +78,7 @@ HEADERS += src/activemasternode.h \
            src/crypter.h \
            src/darksend-relay.h \
            src/darksend.h \
-           src/owncoin-config.h \
+           src/deocoin-config.h \
            src/db.h \
            src/eccryptoverify.h \
            src/ecwrapper.h \
@@ -131,7 +131,7 @@ HEADERS += src/activemasternode.h \
            src/wallet_ismine.h \
            src/walletdb.h \
            src/compat/sanity.h \
-           src/config/owncoin-config.h \
+           src/config/deocoin-config.h \
            src/crypto/common.h \
            src/crypto/hmac_sha256.h \
            src/crypto/hmac_sha512.h \
@@ -333,7 +333,7 @@ HEADERS += src/activemasternode.h \
            src/secp256k1/src/java/org_bitcoin_NativeSecp256k1.h \
            src/crypto/aes_helper.c \
            src/qt/bitcoinamountfield.moc \
-           src/qt/owncoin.moc \
+           src/qt/deocoin.moc \
            src/qt/intro.moc \
            src/qt/overviewpage.moc \
            src/qt/rpcconsole.moc \
@@ -374,9 +374,9 @@ SOURCES += src/activemasternode.cpp \
            src/crypter.cpp \
            src/darksend-relay.cpp \
            src/darksend.cpp \
-           src/owncoin-cli.cpp \
-           src/owncoin-tx.cpp \
-           src/owncoind.cpp \
+           src/deocoin-cli.cpp \
+           src/deocoin-tx.cpp \
+           src/deocoind.cpp \
            src/db.cpp \
            src/eccryptoverify.cpp \
            src/ecwrapper.cpp \
@@ -471,8 +471,8 @@ SOURCES += src/activemasternode.cpp \
            src/qt/coincontroltreewidget.cpp \
            src/qt/csvmodelwriter.cpp \
            src/qt/darksendconfig.cpp \
-           src/qt/owncoin.cpp \
-           src/qt/owncoinstrings.cpp \
+           src/qt/deocoin.cpp \
+           src/qt/deocoinstrings.cpp \
            src/qt/editaddressdialog.cpp \
            src/qt/guiutil.cpp \
            src/qt/intro.cpp \
@@ -550,7 +550,7 @@ SOURCES += src/activemasternode.cpp \
            src/test/sighash_tests.cpp \
            src/test/sigopcount_tests.cpp \
            src/test/skiplist_tests.cpp \
-           src/test/test_owncoin.cpp \
+           src/test/test_deocoin.cpp \
            src/test/timedata_tests.cpp \
            src/test/transaction_tests.cpp \
            src/test/uint256_tests.cpp \
@@ -641,20 +641,20 @@ SOURCES += src/activemasternode.cpp \
            src/leveldb/helpers/memenv/memenv.cc \
            src/leveldb/helpers/memenv/memenv_test.cc \
            src/secp256k1/src/java/org_bitcoin_NativeSecp256k1.c
-RESOURCES += src/qt/owncoin.qrc src/qt/owncoin_locale.qrc
-TRANSLATIONS += src/qt/locale/owncoin_bg.ts \
-                src/qt/locale/owncoin_de.ts \
-                src/qt/locale/owncoin_en.ts \
-                src/qt/locale/owncoin_es.ts \
-                src/qt/locale/owncoin_fi.ts \
-                src/qt/locale/owncoin_fr.ts \
-                src/qt/locale/owncoin_it.ts \
-                src/qt/locale/owncoin_ja.ts \
-                src/qt/locale/owncoin_pl.ts \
-                src/qt/locale/owncoin_pt.ts \
-                src/qt/locale/owncoin_ru.ts \
-                src/qt/locale/owncoin_sk.ts \
-                src/qt/locale/owncoin_sv.ts \
-                src/qt/locale/owncoin_vi.ts \
-                src/qt/locale/owncoin_zh_CN.ts \
-                src/qt/locale/owncoin_zh_TW.ts
+RESOURCES += src/qt/deocoin.qrc src/qt/deocoin_locale.qrc
+TRANSLATIONS += src/qt/locale/deocoin_bg.ts \
+                src/qt/locale/deocoin_de.ts \
+                src/qt/locale/deocoin_en.ts \
+                src/qt/locale/deocoin_es.ts \
+                src/qt/locale/deocoin_fi.ts \
+                src/qt/locale/deocoin_fr.ts \
+                src/qt/locale/deocoin_it.ts \
+                src/qt/locale/deocoin_ja.ts \
+                src/qt/locale/deocoin_pl.ts \
+                src/qt/locale/deocoin_pt.ts \
+                src/qt/locale/deocoin_ru.ts \
+                src/qt/locale/deocoin_sk.ts \
+                src/qt/locale/deocoin_sv.ts \
+                src/qt/locale/deocoin_vi.ts \
+                src/qt/locale/deocoin_zh_CN.ts \
+                src/qt/locale/deocoin_zh_TW.ts

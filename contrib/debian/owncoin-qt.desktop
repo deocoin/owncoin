@@ -1,12 +1,12 @@
 [Desktop Entry]
 Encoding=UTF-8
-Name=Owncoin
-Comment=Owncoin P2P Cryptocurrency
-Comment[fr]=Owncoin, monnaie virtuelle cryptographique pair à pair
-Comment[tr]=Owncoin, eşten eşe kriptografik sanal para birimi
-Exec=owncoin-qt %u
+Name=Deocoin
+Comment=Deocoin P2P Cryptocurrency
+Comment[fr]=Deocoin, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Deocoin, eşten eşe kriptografik sanal para birimi
+Exec=deocoin-qt %u
 Terminal=false
 Type=Application
-Icon=owncoin128
-MimeType=x-scheme-handler/owncoin;
+Icon=deocoin128
+MimeType=x-scheme-handler/deocoin;
 Categories=Office;Finance;

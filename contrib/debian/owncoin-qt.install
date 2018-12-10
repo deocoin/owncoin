@@ -1,6 +1,6 @@
-usr/local/bin/owncoin-qt usr/bin
+usr/local/bin/deocoin-qt usr/bin
 share/pixmaps/bitcoin32.xpm usr/share/pixmaps
 share/pixmaps/bitcoin16.xpm usr/share/pixmaps
 share/pixmaps/bitcoin128.png usr/share/pixmaps
-debian/owncoin-qt.desktop usr/share/applications
-debian/owncoin-qt.protocol usr/share/kde4/services/
+debian/deocoin-qt.desktop usr/share/applications
+debian/deocoin-qt.protocol usr/share/kde4/services/

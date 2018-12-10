@@ -36,13 +36,13 @@
         <file alias="tx_input">res/icons/tx_input.png</file>
         <file alias="tx_output">res/icons/tx_output.png</file>
         <file alias="tx_inout">res/icons/tx_inout.png</file>
-        <file alias="unit_owncoin">res/icons/unit_owncoin.png</file>
-        <file alias="unit_mowncoin">res/icons/unit_mowncoin.png</file>
-        <file alias="unit_uowncoin">res/icons/unit_uowncoin.png</file>
+        <file alias="unit_deocoin">res/icons/unit_deocoin.png</file>
+        <file alias="unit_mdeocoin">res/icons/unit_mdeocoin.png</file>
+        <file alias="unit_udeocoin">res/icons/unit_udeocoin.png</file>
         <file alias="unit_duffs">res/icons/unit_duffs.png</file>
-        <file alias="unit_towncoin">res/icons/unit_towncoin.png</file>
-        <file alias="unit_tmowncoin">res/icons/unit_tmowncoin.png</file>
-        <file alias="unit_tuowncoin">res/icons/unit_tuowncoin.png</file>
+        <file alias="unit_tdeocoin">res/icons/unit_tdeocoin.png</file>
+        <file alias="unit_tmdeocoin">res/icons/unit_tmdeocoin.png</file>
+        <file alias="unit_tudeocoin">res/icons/unit_tudeocoin.png</file>
         <file alias="unit_tduffs">res/icons/unit_tduffs.png</file>
         <file alias="lock_closed">res/icons/lock_closed.png</file>
         <file alias="lock_open">res/icons/lock_open.png</file>
@@ -61,7 +61,7 @@
     </qresource>	    
     <qresource prefix="/images">
         <file alias="about">res/images/about.png</file>
-        <file alias="owncoin_logo_horizontal">res/images/owncoin_logo_horizontal.png</file>
+        <file alias="deocoin_logo_horizontal">res/images/deocoin_logo_horizontal.png</file>
         <file alias="drkblue_downArrow">res/images/drkblue_downArrow.png</file>
         <file alias="drkblue_downArrow_small">res/images/drkblue_downArrow_small.png</file>
         <file alias="drkblue_upArrow_small">res/images/drkblue_upArrow_small.png</file>

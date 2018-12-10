@@ -78,13 +78,13 @@
     </message>
     <message>
         <location line="+7"/>
-        <source>These are your Owncoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>These are your Owncoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</translation>
+        <source>These are your Deocoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>These are your Deocoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</translation>
     </message>
     <message>
         <location line="+4"/>
-        <source>These are your Owncoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>These are your Owncoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</translation>
+        <source>These are your Deocoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>These are your Deocoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</translation>
     </message>
     <message>
         <location line="+6"/>
@@ -219,8 +219,8 @@
     </message>
     <message>
         <location line="+1"/>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR OWNCOIN&lt;/b&gt;!</source>
-        <translation>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR OWNCOIN&lt;/b&gt;!</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR DEOCOIN&lt;/b&gt;!</source>
+        <translation>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR DEOCOIN&lt;/b&gt;!</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -235,8 +235,8 @@
     </message>
     <message>
         <location line="-57"/>
-        <source>Owncoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your owncoins from being stolen by malware infecting your computer.</source>
-        <translation>Owncoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your owncoins from being stolen by malware infecting your computer.</translation>
+        <source>Deocoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your deocoins from being stolen by malware infecting your computer.</source>
+        <translation>Deocoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your deocoins from being stolen by malware infecting your computer.</translation>
     </message>
     <message>
         <location line="+4"/>
@@ -296,8 +296,8 @@
     <message>
         <location filename="../bitcoingui.cpp" line="+108"/>
         <location line="+752"/>
-        <source>Owncoin Core</source>
-        <translation>Owncoin Core</translation>
+        <source>Deocoin Core</source>
+        <translation>Deocoin Core</translation>
     </message>
     <message>
         <location line="-743"/>
@@ -326,8 +326,8 @@
     </message>
     <message>
         <location line="+1"/>
-        <source>Send coins to a Owncoin address</source>
-        <translation>Send coins to a Owncoin address</translation>
+        <source>Send coins to a Deocoin address</source>
+        <translation>Send coins to a Deocoin address</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -336,8 +336,8 @@
     </message>
     <message>
         <location line="+1"/>
-        <source>Request payments (generates QR codes and owncoin: URIs)</source>
-        <translation>Request payments (generates QR codes and owncoin: URIs)</translation>
+        <source>Request payments (generates QR codes and deocoin: URIs)</source>
+        <translation>Request payments (generates QR codes and deocoin: URIs)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -361,13 +361,13 @@
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;About Owncoin Core</source>
-        <translation>&amp;About Owncoin Core</translation>
+        <source>&amp;About Deocoin Core</source>
+        <translation>&amp;About Deocoin Core</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Show information about Owncoin Core</source>
-        <translation>Show information about Owncoin Core</translation>
+        <source>Show information about Deocoin Core</source>
+        <translation>Show information about Deocoin Core</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -387,8 +387,8 @@
     </message>
     <message>
         <location line="+1"/>
-        <source>Modify configuration options for Owncoin</source>
-        <translation>Modify configuration options for Owncoin</translation>
+        <source>Modify configuration options for Deocoin</source>
+        <translation>Modify configuration options for Deocoin</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -452,8 +452,8 @@
     </message>
     <message>
         <location line="+1"/>
-        <source>Sign messages with your Owncoin addresses to prove you own them</source>
-        <translation>Sign messages with your Owncoin addresses to prove you own them</translation>
+        <source>Sign messages with your Deocoin addresses to prove you own them</source>
+        <translation>Sign messages with your Deocoin addresses to prove you own them</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -462,8 +462,8 @@
     </message>
     <message>
         <location line="+1"/>
-        <source>Verify messages to ensure they were signed with specified Owncoin addresses</source>
-        <translation>Verify messages to ensure they were signed with specified Owncoin addresses</translation>
+        <source>Verify messages to ensure they were signed with specified Deocoin addresses</source>
+        <translation>Verify messages to ensure they were signed with specified Deocoin addresses</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -562,8 +562,8 @@
     </message>
     <message>
         <location line="+1"/>
-        <source>Open a owncoin: URI or payment request</source>
-        <translation>Open a owncoin: URI or payment request</translation>
+        <source>Open a deocoin: URI or payment request</source>
+        <translation>Open a deocoin: URI or payment request</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -572,8 +572,8 @@
     </message>
     <message>
         <location line="+196"/>
-        <source>Owncoin Core client</source>
-        <translation>Owncoin Core client</translation>
+        <source>Deocoin Core client</source>
+        <translation>Deocoin Core client</translation>
     </message>
     <message numerus="yes">
         <location line="+182"/>
@@ -587,8 +587,8 @@
     </message>
     <message>
         <location line="-407"/>
-        <source>Show the Owncoin Core help message to get a list with possible Owncoin command-line options</source>
-        <translation>Show the Owncoin Core help message to get a list with possible Owncoin command-line options</translation>
+        <source>Show the Deocoin Core help message to get a list with possible Deocoin command-line options</source>
+        <translation>Show the Deocoin Core help message to get a list with possible Deocoin command-line options</translation>
     </message>
     <message>
         <location line="+36"/>
@@ -617,8 +617,8 @@
     </message>
     <message numerus="yes">
         <location line="+256"/>
-        <source>%n active connection(s) to Owncoin network</source>
-        <translation><numerusform>%n active connection to Owncoin network</numerusform><numerusform>%n active connections to Owncoin network</numerusform></translation>
+        <source>%n active connection(s) to Deocoin network</source>
+        <translation><numerusform>%n active connection to Deocoin network</numerusform><numerusform>%n active connections to Deocoin network</numerusform></translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1090,13 +1090,13 @@ Address: %4
     </message>
     <message>
         <location line="+13"/>
-        <source>Use 2 separate masternodes to mix funds up to 1000 OWNCOIN</source>
-        <translation>Use 2 separate masternodes to mix funds up to 1000 OWNCOIN</translation>
+        <source>Use 2 separate masternodes to mix funds up to 1000 DEOCOIN</source>
+        <translation>Use 2 separate masternodes to mix funds up to 1000 DEOCOIN</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>Use 8 separate masternodes to mix funds up to 1000 OWNCOIN</source>
-        <translation>Use 8 separate masternodes to mix funds up to 1000 OWNCOIN</translation>
+        <source>Use 8 separate masternodes to mix funds up to 1000 DEOCOIN</source>
+        <translation>Use 8 separate masternodes to mix funds up to 1000 DEOCOIN</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1105,18 +1105,18 @@ Address: %4
     </message>
     <message>
         <location line="+13"/>
-        <source>This option is the quickest and will cost about ~0.025 OWNCOIN to anonymize 1000 OWNCOIN</source>
-        <translation>This option is the quickest and will cost about ~0.025 OWNCOIN to anonymize 1000 OWNCOIN</translation>
+        <source>This option is the quickest and will cost about ~0.025 DEOCOIN to anonymize 1000 DEOCOIN</source>
+        <translation>This option is the quickest and will cost about ~0.025 DEOCOIN to anonymize 1000 DEOCOIN</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>This option is moderately fast and will cost about 0.05 OWNCOIN to anonymize 1000 OWNCOIN</source>
-        <translation>This option is moderately fast and will cost about 0.05 OWNCOIN to anonymize 1000 OWNCOIN</translation>
+        <source>This option is moderately fast and will cost about 0.05 DEOCOIN to anonymize 1000 DEOCOIN</source>
+        <translation>This option is moderately fast and will cost about 0.05 DEOCOIN to anonymize 1000 DEOCOIN</translation>
     </message>
     <message>
         <location line="+26"/>
-        <source>0.1 OWNCOIN per 1000 OWNCOIN you anonymize.</source>
-        <translation>0.1 OWNCOIN per 1000 OWNCOIN you anonymize.</translation>
+        <source>0.1 DEOCOIN per 1000 DEOCOIN you anonymize.</source>
+        <translation>0.1 DEOCOIN per 1000 DEOCOIN you anonymize.</translation>
     </message>
     <message>
         <location line="-13"/>
@@ -1132,18 +1132,18 @@ Address: %4
     </message>
     <message>
         <location line="-29"/>
-        <source>Darksend was successfully set to basic (%1 and 2 rounds). You can change this at any time by opening Owncoin&apos;s configuration screen.</source>
-        <translation>Darksend was successfully set to basic (%1 and 2 rounds). You can change this at any time by opening Owncoin&apos;s configuration screen.</translation>
+        <source>Darksend was successfully set to basic (%1 and 2 rounds). You can change this at any time by opening Deocoin&apos;s configuration screen.</source>
+        <translation>Darksend was successfully set to basic (%1 and 2 rounds). You can change this at any time by opening Deocoin&apos;s configuration screen.</translation>
     </message>
     <message>
         <location line="+15"/>
-        <source>Darksend was successfully set to high (%1 and 8 rounds). You can change this at any time by opening Owncoin&apos;s configuration screen.</source>
-        <translation>Darksend was successfully set to high (%1 and 8 rounds). You can change this at any time by opening Owncoin&apos;s configuration screen.</translation>
+        <source>Darksend was successfully set to high (%1 and 8 rounds). You can change this at any time by opening Deocoin&apos;s configuration screen.</source>
+        <translation>Darksend was successfully set to high (%1 and 8 rounds). You can change this at any time by opening Deocoin&apos;s configuration screen.</translation>
     </message>
     <message>
         <location line="+15"/>
-        <source>Darksend was successfully set to maximum (%1 and 16 rounds). You can change this at any time by opening Owncoin&apos;s configuration screen.</source>
-        <translation>Darksend was successfully set to maximum (%1 and 16 rounds). You can change this at any time by opening Owncoin&apos;s configuration screen.</translation>
+        <source>Darksend was successfully set to maximum (%1 and 16 rounds). You can change this at any time by opening Deocoin&apos;s configuration screen.</source>
+        <translation>Darksend was successfully set to maximum (%1 and 16 rounds). You can change this at any time by opening Deocoin&apos;s configuration screen.</translation>
     </message>
 </context>
 <context>
@@ -1195,8 +1195,8 @@ Address: %4
     </message>
     <message>
         <location line="+71"/>
-        <source>The entered address &quot;%1&quot; is not a valid Owncoin address.</source>
-        <translation>The entered address &quot;%1&quot; is not a valid Owncoin address.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid Deocoin address.</source>
+        <translation>The entered address &quot;%1&quot; is not a valid Deocoin address.</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -1246,8 +1246,8 @@ Address: %4
     <name>HelpMessageDialog</name>
     <message>
         <location filename="../utilitydialog.cpp" line="+32"/>
-        <source>Owncoin Core</source>
-        <translation>Owncoin Core</translation>
+        <source>Deocoin Core</source>
+        <translation>Deocoin Core</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -1262,8 +1262,8 @@ Address: %4
     </message>
     <message>
         <location line="+5"/>
-        <source>About Owncoin Core</source>
-        <translation>About Owncoin Core</translation>
+        <source>About Deocoin Core</source>
+        <translation>About Deocoin Core</translation>
     </message>
     <message>
         <location line="+19"/>
@@ -1320,18 +1320,18 @@ Address: %4
     </message>
     <message>
         <location line="+9"/>
-        <source>Welcome to Owncoin Core.</source>
-        <translation>Welcome to Owncoin Core.</translation>
+        <source>Welcome to Deocoin Core.</source>
+        <translation>Welcome to Deocoin Core.</translation>
     </message>
     <message>
         <location line="+26"/>
-        <source>As this is the first time the program is launched, you can choose where Owncoin Core will store its data.</source>
-        <translation>As this is the first time the program is launched, you can choose where Owncoin Core will store its data.</translation>
+        <source>As this is the first time the program is launched, you can choose where Deocoin Core will store its data.</source>
+        <translation>As this is the first time the program is launched, you can choose where Deocoin Core will store its data.</translation>
     </message>
     <message>
         <location line="+10"/>
-        <source>Owncoin Core will download and store a copy of the Owncoin block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>Owncoin Core will download and store a copy of the Owncoin block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</translation>
+        <source>Deocoin Core will download and store a copy of the Deocoin block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>Deocoin Core will download and store a copy of the Deocoin block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1345,8 +1345,8 @@ Address: %4
     </message>
     <message>
         <location filename="../intro.cpp" line="+82"/>
-        <source>Owncoin Core</source>
-        <translation>Owncoin Core</translation>
+        <source>Deocoin Core</source>
+        <translation>Deocoin Core</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1411,13 +1411,13 @@ Address: %4
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically start Owncoin after logging in to the system.</source>
-        <translation>Automatically start Owncoin after logging in to the system.</translation>
+        <source>Automatically start Deocoin after logging in to the system.</source>
+        <translation>Automatically start Deocoin after logging in to the system.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Owncoin on system login</source>
-        <translation>&amp;Start Owncoin on system login</translation>
+        <source>&amp;Start Deocoin on system login</source>
+        <translation>&amp;Start Deocoin on system login</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -1451,8 +1451,8 @@ Address: %4
     </message>
     <message>
         <location line="+15"/>
-        <source>Amount of Owncoin to keep anonymized</source>
-        <translation>Amount of Owncoin to keep anonymized</translation>
+        <source>Amount of Deocoin to keep anonymized</source>
+        <translation>Amount of Deocoin to keep anonymized</translation>
     </message>
     <message>
         <location line="+26"/>
@@ -1476,8 +1476,8 @@ Address: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the Owncoin network through a SOCKS5 proxy.</source>
-        <translation>Connect to the Owncoin network through a SOCKS5 proxy.</translation>
+        <source>Connect to the Deocoin network through a SOCKS5 proxy.</source>
+        <translation>Connect to the Deocoin network through a SOCKS5 proxy.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1516,8 +1516,8 @@ Address: %4
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the Owncoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Automatically open the Owncoin client port on the router. This only works when your router supports UPnP and it is enabled.</translation>
+        <source>Automatically open the Deocoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Automatically open the Deocoin client port on the router. This only works when your router supports UPnP and it is enabled.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1581,15 +1581,15 @@ Address: %4
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Owncoin.</source>
-        <translation>The user interface language can be set here. This setting will take effect after restarting Owncoin.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Deocoin.</source>
+        <translation>The user interface language can be set here. This setting will take effect after restarting Deocoin.</translation>
     </message>
     <message>
         <location line="+21"/>
         <source>Language missing or translation incomplete? Help contributing translations here:
-https://www.transifex.com/projects/p/owncoin/</source>
+https://www.transifex.com/projects/p/deocoin/</source>
         <translation>Language missing or translation incomplete? Help contributing translations here:
-https://www.transifex.com/projects/p/owncoin/</translation>
+https://www.transifex.com/projects/p/deocoin/</translation>
     </message>
     <message>
         <location line="+19"/>
@@ -1695,8 +1695,8 @@ https://www.transifex.com/projects/p/owncoin/</translation>
         <location line="+53"/>
         <location line="+1015"/>
         <location line="+77"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Owncoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>The displayed information may be out of date. Your wallet automatically synchronizes with the Owncoin network after a connection is established, but this process has not completed yet.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Deocoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>The displayed information may be out of date. Your wallet automatically synchronizes with the Deocoin network after a connection is established, but this process has not completed yet.</translation>
     </message>
     <message>
         <location line="-843"/>
@@ -1800,8 +1800,8 @@ https://www.transifex.com/projects/p/owncoin/</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>0 OWNCOIN / 0 Rounds</source>
-        <translation>0 OWNCOIN / 0 Rounds</translation>
+        <source>0 DEOCOIN / 0 Rounds</source>
+        <translation>0 DEOCOIN / 0 Rounds</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1990,8 +1990,8 @@ https://www.transifex.com/projects/p/owncoin/</translation>
     </message>
     <message>
         <location line="-400"/>
-        <source>Cannot start owncoin: click-to-pay handler</source>
-        <translation>Cannot start owncoin: click-to-pay handler</translation>
+        <source>Cannot start deocoin: click-to-pay handler</source>
+        <translation>Cannot start deocoin: click-to-pay handler</translation>
     </message>
     <message>
         <location line="+104"/>
@@ -2017,8 +2017,8 @@ https://www.transifex.com/projects/p/owncoin/</translation>
     </message>
     <message>
         <location line="+8"/>
-        <source>URI cannot be parsed! This can be caused by an invalid Owncoin address or malformed URI parameters.</source>
-        <translation>URI cannot be parsed! This can be caused by an invalid Owncoin address or malformed URI parameters.</translation>
+        <source>URI cannot be parsed! This can be caused by an invalid Deocoin address or malformed URI parameters.</source>
+        <translation>URI cannot be parsed! This can be caused by an invalid Deocoin address or malformed URI parameters.</translation>
     </message>
     <message>
         <location line="+14"/>
@@ -2125,8 +2125,8 @@ https://www.transifex.com/projects/p/owncoin/</translation>
     </message>
     <message>
         <location filename="../guiutil.cpp" line="+110"/>
-        <source>Enter a Owncoin address (e.g. %1)</source>
-        <translation>Enter a Owncoin address (e.g. %1)</translation>
+        <source>Enter a Deocoin address (e.g. %1)</source>
+        <translation>Enter a Deocoin address (e.g. %1)</translation>
     </message>
     <message>
         <location line="+760"/>
@@ -2259,8 +2259,8 @@ https://www.transifex.com/projects/p/owncoin/</translation>
     </message>
     <message>
         <location line="+76"/>
-        <source>Open the Owncoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Open the Owncoin debug log file from the current data directory. This can take a few seconds for large log files.</translation>
+        <source>Open the Deocoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Open the Deocoin debug log file from the current data directory. This can take a few seconds for large log files.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2521,8 +2521,8 @@ https://www.transifex.com/projects/p/owncoin/</translation>
     </message>
     <message>
         <location line="-35"/>
-        <source>Welcome to the Owncoin RPC console.</source>
-        <translation>Welcome to the Owncoin RPC console.</translation>
+        <source>Welcome to the Deocoin RPC console.</source>
+        <translation>Welcome to the Deocoin RPC console.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2601,8 +2601,8 @@ https://www.transifex.com/projects/p/owncoin/</translation>
     </message>
     <message>
         <location line="+14"/>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Owncoin network.</source>
-        <translation>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Owncoin network.</translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Deocoin network.</source>
+        <translation>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Deocoin network.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2617,8 +2617,8 @@ https://www.transifex.com/projects/p/owncoin/</translation>
     </message>
     <message>
         <location line="-14"/>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened.&lt;br&gt;Note: The message will not be sent with the payment over the Owncoin network.</source>
-        <translation>An optional message to attach to the payment request, which will be displayed when the request is opened.&lt;br&gt;Note: The message will not be sent with the payment over the Owncoin network.</translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened.&lt;br&gt;Note: The message will not be sent with the payment over the Deocoin network.</source>
+        <translation>An optional message to attach to the payment request, which will be displayed when the request is opened.&lt;br&gt;Note: The message will not be sent with the payment over the Deocoin network.</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -2925,8 +2925,8 @@ https://www.transifex.com/projects/p/owncoin/</translation>
     <message>
         <location line="+33"/>
         <location line="+13"/>
-        <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks.&lt;br /&gt;But be aware that this can end up in a never confirming transaction once there is more demand for owncoin transactions than the network can process.</source>
-        <translation>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks.&lt;br /&gt;But be aware that this can end up in a never confirming transaction once there is more demand for owncoin transactions than the network can process.</translation>
+        <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks.&lt;br /&gt;But be aware that this can end up in a never confirming transaction once there is more demand for deocoin transactions than the network can process.</source>
+        <translation>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks.&lt;br /&gt;But be aware that this can end up in a never confirming transaction once there is more demand for deocoin transactions than the network can process.</translation>
     </message>
     <message>
         <location line="-59"/>
@@ -3186,8 +3186,8 @@ https://www.transifex.com/projects/p/owncoin/</translation>
     </message>
     <message>
         <location line="+129"/>
-        <source>Warning: Invalid Owncoin address</source>
-        <translation>Warning: Invalid Owncoin address</translation>
+        <source>Warning: Invalid Deocoin address</source>
+        <translation>Warning: Invalid Deocoin address</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -3214,8 +3214,8 @@ https://www.transifex.com/projects/p/owncoin/</translation>
     </message>
     <message>
         <location line="+18"/>
-        <source>The Owncoin address to send the payment to</source>
-        <translation>The Owncoin address to send the payment to</translation>
+        <source>The Deocoin address to send the payment to</source>
+        <translation>The Deocoin address to send the payment to</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -3268,8 +3268,8 @@ https://www.transifex.com/projects/p/owncoin/</translation>
     </message>
     <message>
         <location line="+10"/>
-        <source>A message that was attached to the owncoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Owncoin network.</source>
-        <translation>A message that was attached to the owncoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Owncoin network.</translation>
+        <source>A message that was attached to the deocoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Deocoin network.</source>
+        <translation>A message that was attached to the deocoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Deocoin network.</translation>
     </message>
     <message>
         <location line="+426"/>
@@ -3303,8 +3303,8 @@ https://www.transifex.com/projects/p/owncoin/</translation>
     <name>ShutdownWindow</name>
     <message>
         <location filename="../utilitydialog.cpp" line="+43"/>
-        <source>Owncoin Core is shutting down...</source>
-        <translation>Owncoin Core is shutting down...</translation>
+        <source>Deocoin Core is shutting down...</source>
+        <translation>Deocoin Core is shutting down...</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3331,8 +3331,8 @@ https://www.transifex.com/projects/p/owncoin/</translation>
     </message>
     <message>
         <location line="+18"/>
-        <source>The Owncoin address to sign the message with</source>
-        <translation>The Owncoin address to sign the message with</translation>
+        <source>The Deocoin address to sign the message with</source>
+        <translation>The Deocoin address to sign the message with</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -3373,8 +3373,8 @@ https://www.transifex.com/projects/p/owncoin/</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this Owncoin address</source>
-        <translation>Sign the message to prove you own this Owncoin address</translation>
+        <source>Sign the message to prove you own this Deocoin address</source>
+        <translation>Sign the message to prove you own this Deocoin address</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -3404,13 +3404,13 @@ https://www.transifex.com/projects/p/owncoin/</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>The Owncoin address the message was signed with</source>
-        <translation>The Owncoin address the message was signed with</translation>
+        <source>The Deocoin address the message was signed with</source>
+        <translation>The Deocoin address the message was signed with</translation>
     </message>
     <message>
         <location line="+37"/>
-        <source>Verify the message to ensure it was signed with the specified Owncoin address</source>
-        <translation>Verify the message to ensure it was signed with the specified Owncoin address</translation>
+        <source>Verify the message to ensure it was signed with the specified Deocoin address</source>
+        <translation>Verify the message to ensure it was signed with the specified Deocoin address</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -3498,8 +3498,8 @@ https://www.transifex.com/projects/p/owncoin/</translation>
     <name>SplashScreen</name>
     <message>
         <location filename="../splashscreen.cpp" line="+36"/>
-        <source>Owncoin Core</source>
-        <translation>Owncoin Core</translation>
+        <source>Deocoin Core</source>
+        <translation>Deocoin Core</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3513,8 +3513,8 @@ https://www.transifex.com/projects/p/owncoin/</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>The Owncoin Core developers</source>
-        <translation>The Owncoin Core developers</translation>
+        <source>The Deocoin Core developers</source>
+        <translation>The Deocoin Core developers</translation>
     </message>
     <message>
         <location filename="../networkstyle.cpp" line="+19"/>
@@ -4189,8 +4189,8 @@ https://www.transifex.com/projects/p/owncoin/</translation>
     <message>
         <location line="-20"/>
         <location line="+9"/>
-        <source>InstantX doesn&apos;t support sending values that high yet. Transactions are currently limited to %1 OWNCOIN.</source>
-        <translation>InstantX doesn&apos;t support sending values that high yet. Transactions are currently limited to %1 OWNCOIN.</translation>
+        <source>InstantX doesn&apos;t support sending values that high yet. Transactions are currently limited to %1 DEOCOIN.</source>
+        <translation>InstantX doesn&apos;t support sending values that high yet. Transactions are currently limited to %1 DEOCOIN.</translation>
     </message>
 </context>
 <context>
@@ -4242,16 +4242,16 @@ https://www.transifex.com/projects/p/owncoin/</translation>
     </message>
 </context>
 <context>
-    <name>owncoin-core</name>
+    <name>deocoin-core</name>
     <message>
-        <location filename="../owncoinstrings.cpp" line="+22"/>
+        <location filename="../deocoinstrings.cpp" line="+22"/>
         <source>Bind to given address and always listen on it. Use [host]:port notation for IPv6</source>
         <translation>Bind to given address and always listen on it. Use [host]:port notation for IPv6</translation>
     </message>
     <message>
         <location line="+10"/>
-        <source>Cannot obtain a lock on data directory %s. Owncoin Core is probably already running.</source>
-        <translation>Cannot obtain a lock on data directory %s. Owncoin Core is probably already running.</translation>
+        <source>Cannot obtain a lock on data directory %s. Deocoin Core is probably already running.</source>
+        <translation>Cannot obtain a lock on data directory %s. Deocoin Core is probably already running.</translation>
     </message>
     <message>
         <location line="+12"/>
@@ -4320,8 +4320,8 @@ https://www.transifex.com/projects/p/owncoin/</translation>
     </message>
     <message>
         <location line="+20"/>
-        <source>Unable to bind to %s on this computer. Owncoin Core is probably already running.</source>
-        <translation>Unable to bind to %s on this computer. Owncoin Core is probably already running.</translation>
+        <source>Unable to bind to %s on this computer. Deocoin Core is probably already running.</source>
+        <translation>Unable to bind to %s on this computer. Deocoin Core is probably already running.</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -4330,8 +4330,8 @@ https://www.transifex.com/projects/p/owncoin/</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Unable to locate enough Darksend non-denominated funds for this transaction that are not equal 1000 OWNCOIN.</source>
-        <translation>Unable to locate enough Darksend non-denominated funds for this transaction that are not equal 1000 OWNCOIN.</translation>
+        <source>Unable to locate enough Darksend non-denominated funds for this transaction that are not equal 1000 DEOCOIN.</source>
+        <translation>Unable to locate enough Darksend non-denominated funds for this transaction that are not equal 1000 DEOCOIN.</translation>
     </message>
     <message>
         <location line="+12"/>
@@ -4610,8 +4610,8 @@ https://www.transifex.com/projects/p/owncoin/</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Disable all Owncoin specific functionality (Masternodes, Darksend, InstantX, Budgeting) (0-1, default: %u)</source>
-        <translation>Disable all Owncoin specific functionality (Masternodes, Darksend, InstantX, Budgeting) (0-1, default: %u)</translation>
+        <source>Disable all Deocoin specific functionality (Masternodes, Darksend, InstantX, Budgeting) (0-1, default: %u)</source>
+        <translation>Disable all Deocoin specific functionality (Masternodes, Darksend, InstantX, Budgeting) (0-1, default: %u)</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -4635,13 +4635,13 @@ https://www.transifex.com/projects/p/owncoin/</translation>
     </message>
     <message>
         <location line="+12"/>
-        <source>Fees (in OWNCOIN/Kb) smaller than this are considered zero fee for relaying (default: %s)</source>
-        <translation>Fees (in OWNCOIN/Kb) smaller than this are considered zero fee for relaying (default: %s)</translation>
+        <source>Fees (in DEOCOIN/Kb) smaller than this are considered zero fee for relaying (default: %s)</source>
+        <translation>Fees (in DEOCOIN/Kb) smaller than this are considered zero fee for relaying (default: %s)</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Fees (in OWNCOIN/Kb) smaller than this are considered zero fee for transaction creation (default: %s)</source>
-        <translation>Fees (in OWNCOIN/Kb) smaller than this are considered zero fee for transaction creation (default: %s)</translation>
+        <source>Fees (in DEOCOIN/Kb) smaller than this are considered zero fee for transaction creation (default: %s)</source>
+        <translation>Fees (in DEOCOIN/Kb) smaller than this are considered zero fee for transaction creation (default: %s)</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -4730,33 +4730,33 @@ https://www.transifex.com/projects/p/owncoin/</translation>
     </message>
     <message>
         <location line="+4"/>
-        <source>To use owncoind, or the -server option to owncoin-qt, you must set an rpcpassword in the configuration file:
+        <source>To use deocoind, or the -server option to deocoin-qt, you must set an rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=owncoinrpc
+rpcuser=deocoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Owncoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;Deocoin Alert&quot; admin@foo.com
 </source>
-        <translation>To use owncoind, or the -server option to owncoin-qt, you must set an rpcpassword in the configuration file:
+        <translation>To use deocoind, or the -server option to deocoin-qt, you must set an rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=owncoinrpc
+rpcuser=deocoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Owncoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;Deocoin Alert&quot; admin@foo.com
 </translation>
     </message>
     <message>
         <location line="+20"/>
-        <source>Unable to locate enough funds for this transaction that are not equal 1000 OWNCOIN.</source>
-        <translation>Unable to locate enough funds for this transaction that are not equal 1000 OWNCOIN.</translation>
+        <source>Unable to locate enough funds for this transaction that are not equal 1000 DEOCOIN.</source>
+        <translation>Unable to locate enough funds for this transaction that are not equal 1000 DEOCOIN.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -4770,8 +4770,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Owncoin Alert&quot; admin@foo.
     </message>
     <message>
         <location line="+6"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Owncoin Core will not work properly.</source>
-        <translation>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Owncoin Core will not work properly.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Deocoin Core will not work properly.</source>
+        <translation>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Deocoin Core will not work properly.</translation>
     </message>
     <message>
         <location line="+16"/>
@@ -4837,8 +4837,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Owncoin Alert&quot; admin@foo.
     </message>
     <message>
         <location line="+1"/>
-        <source>Copyright (C) 2014-%i The Owncoin Core Developers</source>
-        <translation>Copyright (C) 2014-%i The Owncoin Core Developers</translation>
+        <source>Copyright (C) 2014-%i The Deocoin Core Developers</source>
+        <translation>Copyright (C) 2014-%i The Deocoin Core Developers</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -4877,8 +4877,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Owncoin Alert&quot; admin@foo.
     </message>
     <message>
         <location line="+6"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Owncoin Core</source>
-        <translation>Error loading wallet.dat: Wallet requires newer version of Owncoin Core</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Deocoin Core</source>
+        <translation>Error loading wallet.dat: Wallet requires newer version of Deocoin Core</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -4897,8 +4897,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Owncoin Alert&quot; admin@foo.
     </message>
     <message>
         <location line="+5"/>
-        <source>Fee (in OWNCOIN/kB) to add to transactions you send (default: %s)</source>
-        <translation>Fee (in OWNCOIN/kB) to add to transactions you send (default: %s)</translation>
+        <source>Fee (in DEOCOIN/kB) to add to transactions you send (default: %s)</source>
+        <translation>Fee (in DEOCOIN/kB) to add to transactions you send (default: %s)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -4967,8 +4967,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Owncoin Alert&quot; admin@foo.
     </message>
     <message>
         <location line="+1"/>
-        <source>Initialization sanity check failed. Owncoin Core is shutting down.</source>
-        <translation>Initialization sanity check failed. Owncoin Core is shutting down.</translation>
+        <source>Initialization sanity check failed. Deocoin Core is shutting down.</source>
+        <translation>Initialization sanity check failed. Deocoin Core is shutting down.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -5282,8 +5282,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Owncoin Alert&quot; admin@foo.
     </message>
     <message>
         <location line="+9"/>
-        <source>Wallet needed to be rewritten: restart Owncoin Core to complete</source>
-        <translation>Wallet needed to be rewritten: restart Owncoin Core to complete</translation>
+        <source>Wallet needed to be rewritten: restart Deocoin Core to complete</source>
+        <translation>Wallet needed to be rewritten: restart Deocoin Core to complete</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -5357,8 +5357,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Owncoin Alert&quot; admin@foo.
     </message>
     <message>
         <location line="+1"/>
-        <source>Keep N OWNCOIN anonymized (default: %u)</source>
-        <translation>Keep N OWNCOIN anonymized (default: %u)</translation>
+        <source>Keep N DEOCOIN anonymized (default: %u)</source>
+        <translation>Keep N DEOCOIN anonymized (default: %u)</translation>
     </message>
     <message>
         <location line="+1"/>

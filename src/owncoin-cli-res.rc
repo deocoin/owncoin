@@ -16,14 +16,14 @@ BEGIN
     BEGIN
         BLOCK "040904E4" // U.S. English - multilingual (hex)
         BEGIN
-            VALUE "CompanyName",        "Owncoin"
-            VALUE "FileDescription",    "Owncoin-cli (OSS RPC client for Owncoin)"
+            VALUE "CompanyName",        "Deocoin"
+            VALUE "FileDescription",    "Deocoin-cli (OSS RPC client for Deocoin)"
             VALUE "FileVersion",        VER_FILEVERSION_STR
-            VALUE "InternalName",       "owncoin-cli"
+            VALUE "InternalName",       "deocoin-cli"
             VALUE "LegalCopyright",     COPYRIGHT_STR
             VALUE "LegalTrademarks1",   "Distributed under the MIT/X11 software license, see the accompanying file COPYING or http://www.opensource.org/licenses/mit-license.php."
-            VALUE "OriginalFilename",   "owncoin-cli.exe"
-            VALUE "ProductName",        "Owncoin-cli"
+            VALUE "OriginalFilename",   "deocoin-cli.exe"
+            VALUE "ProductName",        "Deocoin-cli"
             VALUE "ProductVersion",     VER_PRODUCTVERSION_STR
         END
     END

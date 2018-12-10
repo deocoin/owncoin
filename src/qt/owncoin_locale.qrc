@@ -1,20 +1,20 @@
 <!DOCTYPE RCC><RCC version="1.0">
     <qresource prefix="/translations">
-        <file alias="bg">locale/owncoin_bg.qm</file>
-        <file alias="de">locale/owncoin_de.qm</file>
-        <file alias="en">locale/owncoin_en.qm</file>
-        <file alias="es">locale/owncoin_es.qm</file>
-        <file alias="fi">locale/owncoin_fi.qm</file>
-        <file alias="fr">locale/owncoin_fr.qm</file>
-        <file alias="it">locale/owncoin_it.qm</file>
-        <file alias="it">locale/owncoin_ja.qm</file>
-        <file alias="pl">locale/owncoin_pl.qm</file>
-        <file alias="pt">locale/owncoin_pt.qm</file>
-        <file alias="ru">locale/owncoin_ru.qm</file>
-        <file alias="sk">locale/owncoin_sk.qm</file>
-        <file alias="sv">locale/owncoin_sv.qm</file>
-        <file alias="vi">locale/owncoin_vi.qm</file>
-        <file alias="zh_CN">locale/owncoin_zh_CN.qm</file>
-        <file alias="zh_TW">locale/owncoin_zh_TW.qm</file>
+        <file alias="bg">locale/deocoin_bg.qm</file>
+        <file alias="de">locale/deocoin_de.qm</file>
+        <file alias="en">locale/deocoin_en.qm</file>
+        <file alias="es">locale/deocoin_es.qm</file>
+        <file alias="fi">locale/deocoin_fi.qm</file>
+        <file alias="fr">locale/deocoin_fr.qm</file>
+        <file alias="it">locale/deocoin_it.qm</file>
+        <file alias="it">locale/deocoin_ja.qm</file>
+        <file alias="pl">locale/deocoin_pl.qm</file>
+        <file alias="pt">locale/deocoin_pt.qm</file>
+        <file alias="ru">locale/deocoin_ru.qm</file>
+        <file alias="sk">locale/deocoin_sk.qm</file>
+        <file alias="sv">locale/deocoin_sv.qm</file>
+        <file alias="vi">locale/deocoin_vi.qm</file>
+        <file alias="zh_CN">locale/deocoin_zh_CN.qm</file>
+        <file alias="zh_TW">locale/deocoin_zh_TW.qm</file>
     </qresource>
 </RCC>

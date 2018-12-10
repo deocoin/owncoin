@@ -3,7 +3,7 @@
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
 #if defined(HAVE_CONFIG_H)
-#include "config/owncoin-config.h"
+#include "config/deocoin-config.h"
 #endif
 
 #include "optionsdialog.h"
@@ -82,8 +82,8 @@ OptionsDialog::OptionsDialog(QWidget *parent, bool enableWallet) :
     }
     
     /* Theme selector */
-    ui->theme->addItem(QString("OWNCOIN-blue"), QVariant("drkblue"));
-    ui->theme->addItem(QString("OWNCOIN-traditional"), QVariant("trad"));
+    ui->theme->addItem(QString("DEOCOIN-blue"), QVariant("drkblue"));
+    ui->theme->addItem(QString("DEOCOIN-traditional"), QVariant("trad"));
 
     
     /* Language selector */
